@@ -25,11 +25,11 @@ The project uses the official BTS monthly ZIP files.
 
 ## Number of Files
 
-[exact number]
+[55]
 
 ## Dataset Size
 
-[exact size]
+[13GB]
 
 ## Download Structure
 
@@ -48,18 +48,5 @@ data/
 6. Verify dataset
 7. Run pipeline
 
-## Why Raw Data Is Not Included
-
-[17+ GB / GitHub limitation]
-
-## Data Fields Used by Pipeline
-
-...
-
-## Data Preparation
-
-...
-
-## Important Note About Dataset Version
 
 ...
