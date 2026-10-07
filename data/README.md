@@ -29,7 +29,7 @@ The project uses the official BTS monthly ZIP files.
 
 ## Dataset Size
 
-[13GB]
+[13.4GB]
 
 ## Download Structure
 
